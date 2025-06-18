@@ -1,4 +1,3 @@
-package Partice;
 
 import java.util.ArrayList;
 
